@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sun_yellow">#FFFFC107</color>
+    <color name="sun_orange">#FFFF9800</color>
+    <color name="warm_white">#FFFFFBF0</color>
+    <color name="deep_charcoal">#FF212121</color>
+
+    <color name="meter_red">#FFD32F2F</color>
+    <color name="meter_amber">#FFFFA000</color>
+    <color name="meter_green">#FF388E3C</color>
+</resources>

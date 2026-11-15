@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SunChaser</string>
+
+    <string name="tab_today">Today</string>
+    <string name="tab_history">History</string>
+    <string name="tab_forecast">Forecast</string>
+
+    <string name="splash_tagline">Chase the light.</string>
+    <string name="sensor_unavailable">This phone has no ambient light sensor.</string>
+    <string name="simulate_daylight_button">Simulate Daylight (30 s)</string>
+</resources>

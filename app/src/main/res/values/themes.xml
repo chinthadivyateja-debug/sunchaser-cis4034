@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--
+         Base application theme for a Jetpack Compose + Material 3 app.
+         The Compose UI uses its own Material 3 theme (see SunChaserTheme.kt) —
+         this XML style only sets the status-bar background and splash colour
+         before any Compose UI appears.
+    -->
+    <style name="Theme.SunChaser" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor" tools:targetApi="l">@color/sun_orange</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        <item name="android:windowBackground">@color/warm_white</item>
+    </style>
+</resources>

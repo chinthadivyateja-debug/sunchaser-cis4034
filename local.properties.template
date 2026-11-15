@@ -1,0 +1,13 @@
+# Rename this file to "local.properties" (no .template) and edit the sdk.dir line
+# to point at YOUR Android SDK on this computer.
+#
+# Windows example (replace <you> with your Windows username):
+# sdk.dir=C:\\Users\\<you>\\AppData\\Local\\Android\\Sdk
+#
+# Mac example:
+# sdk.dir=/Users/<you>/Library/Android/sdk
+#
+# Linux example:
+# sdk.dir=/home/<you>/Android/Sdk
+
+sdk.dir=C:\\Users\\<you>\\AppData\\Local\\Android\\Sdk
